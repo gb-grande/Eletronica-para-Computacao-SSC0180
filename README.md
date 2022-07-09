@@ -21,3 +21,11 @@ Esquemático no EAGLE
 ![Esquemático no EAGLE](https://i.imgur.com/f2UnJjM.png)
 Board no EAGLE
 ![Board no EAGLE](https://i.imgur.com/IOnTe4q.png)
+
+Apresentação da fonte:
+https://user-images.githubusercontent.com/24720405/178084118-f01fbc68-67f3-4e2c-8ba8-4f21347edacc.mp4
+
+Cálculo do Ripple:
+https://user-images.githubusercontent.com/24720405/178084461-28b8bc12-fb25-4542-be41-ac9ad6f14883.mp4
+
+
