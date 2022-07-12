@@ -4,7 +4,7 @@ Esse repo reúne trabalhos desenvolvidos para a disciplina de Eletrônica para C
 
 Membros do grupo:
 
-. Lucas Oliveira Castro - 13695059
-. Gustavo Bhering Grande - 12542780
-. Joao Pedro Hamata - 13672001
-. Rafael de Almeida - 11872028
+- Lucas Oliveira Castro - 13695059
+- Gustavo Bhering Grande - 12542780
+- Joao Pedro Hamata - 13672001
+- Rafael de Almeida - 11872028
