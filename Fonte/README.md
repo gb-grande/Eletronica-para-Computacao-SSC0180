@@ -20,6 +20,7 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 | transistor NPN BC337-40 | R$0,69 |
 | LED | R$0,50 |
 | ***TOTAL*** | ***R$44,45*** |
+*Componentes comprados na Ca&Ma em São Carlos, 28/06/2022
 
 ## Ficha Tecnica
 ### Transformador: 
@@ -47,12 +48,9 @@ Nesta etapa, os sinais eletricos arredondados pela caracteristica senoidal dos v
 ### Regulagem:
 Nesta etapa, os sinais eletricos ja trabalhados pelas etapas anteriores sao submentidos a uma maior establizacao e linearizacao em funcao da acao complementar entre o diodo Zener e o transistor, de modo que a saida do sistema configure uma tensao fixa e constante, a despeito de ligeiras imperfeicoes de processos anteriores ou mesmo da presenca de ruido por flutuacoes de corrente e temperatura. Finalmente, ativa-se o potenciometro para regular o valor de saida entre os especificados 3V e 12V.
 
-[Circuito no Falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcA2aAOMB2ALGXyEw1sESQFJyRsBmcgUwFowwAoAN3DACYVKXe3NGijgQyfmkrSo0BKwDuXXmAngAnCrWRFykEJFhN+4VFYAVDYNMG+o7LKJpkmTSSE1ITkd2jdsQghoNDg4kOrqIoyYsLhB6gg0NMhoFAgITHiyEeqsACYgNAhalNhw+pA+4AByZZDY+YXF+gjI1OXclfo1dQ0Fng6dIkUl3WC1cH2F9RXDzdytYxP1uraqlCN2Okp1s9RSe9tNgoubtkdnNlciFzND0w6bt4-N2AdPrABO5NiDmLykF68SjcTo6ADG+xBXTeG2a0lgcBcORRqIihV8qgSQk6YHCSBgcDYOwO90Bh10sOOPyBZiU5PuEh8XR0NAcAC96AA7eifZh0fjQTB4EYYTQYeDcJiYUQqAWsdniLo0TpKnw2ECcnl8sA0XRMjGUA0fJTG5rkj6qAG-PYM-7dPL0ABmAEMAK4AGwALowPfQChAZIS2N8DYyugs2pRMBRWABzKHUqn4URHMNdTDECmmiOLFwnKOsL0gGMFktZyOiCDMdR+SCgoiQZBEIoIdSyYXYBL-DA8TSYZAOPGUR2uz1er7ie2bfOG2XwfXT5pm4H664l+aLNO5tph0w6LAOWeV2cq-jkeCyRAgABK9AAzgBLe9el1c8H0XSZwYZitlOnln8vDfg8ZjfCBAyAdS-CdF+WYzkuq4APZNOIjztOiqowMC4CsEAA)
-![Circuito](https://user-images.githubusercontent.com/24720405/177338743-613116f9-f731-4138-b668-0798a2461214.png)
+[Circuito no Falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcA2aAOMB2ALGXyEw1sESQFJyRsBmcgUwFowwAoAN3DACYVKXe3NGijgQyfmkrSo0BKwDuXXmAngAnCrWRFykEJFhN+4VFYAVDYNMG+o7LKJpkmTSSE1ITkd2j512OoImGAI3DTIQtTQNK4INOpB6mjx2JCYTCyyieqsACYgNGF2aZTckD7gAHKl2PmFxdwIyNRw+hX61bX1ng7lIkVaZV1wdQW97QONzZ1gNaO6tqqUg3Y6SqWT1FJb6w2CM6u2e0c2ZyInkH0dE6uXDqvYO3esAE7k2H2YvKQPxWXlHQAY22ZQ6TxW-1k8BcOTh8MShTAMUg6gSIRo2G4mBouJaMDgbA2O36H2uF10EP2ZOpe1+WwkPg6OkxIAAXvQAHb0V7MOj8aAhWhhDCaDDwbhMTCiFT81hs8Q3cqKnw2dlcnl83SMwrKnUvJT64r0l6qH6fLb07GCEB5egAMwAhgBXAA2ABdGK76AUIDICWx3jrScGZmC4KwAOag6lU-CiPbBjqYYi7bUdJotFwHfGsd0gTDTFopvphsTMNAxQuQAyxb6EdSyIXCTCuIqYCrIZzgNp2p1u91vcTfanZ3UyQGJkerI28RPnAtFsyGjMzYOmHRYBxjzPD3g0ZUQChtAmQJAAJXoAGcAJZX92OzlA+i6EtbN-cNLLgup60-h5XGY7xvhMIFQjwexgbwY4vAA9g04gPK0iLKjAc7gKwQA)
+![Circuito](https://user-images.githubusercontent.com/24720405/179834899-ba1af617-4492-4a14-963c-7540d1b17340.png)
 Esquemático no EAGLE
 ![Esquemático no EAGLE](https://i.imgur.com/f2UnJjM.png)
 Board no EAGLE
 ![Board no EAGLE](https://i.imgur.com/IOnTe4q.png)
-
-
-
