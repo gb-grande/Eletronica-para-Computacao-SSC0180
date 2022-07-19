@@ -25,14 +25,14 @@ void setup()
     //coloca os pinos no modo certo
     pinMode(LEDS[i], OUTPUT);
     pinMode(LEDS_IN[i], INPUT);
-    //coloca
+    //deixa o LED desligado por default
     digitalWrite(LEDS[i], LOW);
   }
   //coloca os pinos no modo certo
   pinMode(RIGHT_LED, OUTPUT);
   pinMode(WRONG_LED, OUTPUT);
 }
-// funciona como uma main, chamado automitcamente
+// chamada repetidamente ao enquanto o arduino está ligado
 void loop()
 {
   if (!playerTurn)
@@ -43,9 +43,9 @@ void loop()
       delay(200);
       return;
     }
-    //uma nova seed para pwgar random
+    //garante que o numero gerado sera random
     randomSeed(millis());
-    //preenche a proxima correta
+    //preenche o proximo item da sequencia e continua o turno
     sequence[lvl] = LEDS[random(LED_COUNT)];
     lvl++;
     playSequence();
@@ -71,7 +71,7 @@ void loop()
   
 }
 
-//Acende e apaga rapidamente, usado no input
+//Acende e apaga um LED rapidamente
 void quickFlash(int led)
 {
 	digitalWrite(led, HIGH);
@@ -79,7 +79,6 @@ void quickFlash(int led)
   	digitalWrite(led, LOW);
 }
 
-//funcao de quando o usuario erra a sequencia
 void wrongSequence()
 {
   for (int i = 0; i < 3; i++)
@@ -122,7 +121,7 @@ int readInput()
   for (int i = 0; i < LED_COUNT; i++)
   {
   	int read = digitalRead(LEDS_IN[i]);
-    //o jeito que funciona é: se apertado = LOW
+    //se apertado = LOW
     if (read == LOW){
       quickFlash(LEDS[i]);
       return LEDS[i];
