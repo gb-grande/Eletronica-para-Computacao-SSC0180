@@ -20,6 +20,7 @@ Adotou-se como parametros da entrada: Corrente alternada com 127V de tensao e 60
 | transistor NPN BC337-40 | R$0,69 |
 | LED | R$0,50 |
 | ***TOTAL*** | ***R$44,45*** |
+
 *Componentes comprados na Ca&Ma em São Carlos, 28/06/2022
 
 ## Ficha Tecnica
