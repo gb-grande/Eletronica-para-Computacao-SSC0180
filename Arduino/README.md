@@ -1,6 +1,7 @@
 # Simas mandou
 
-Projeto de Arduino para a disciplina de eletrônica para computação
+[Link no Tinkercad](https://www.tinkercad.com/things/1qlNUX4usa7?sharecode=HuhpSKOAGvLiwhh5h8rThmYeWDtbYWvxx7T4EVyVJeo)
+
 
 ![](TinkerCad.png)
 
