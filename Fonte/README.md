@@ -52,6 +52,6 @@ Nesta etapa, os sinais eletricos ja trabalhados pelas etapas anteriores sao subm
 [Circuito no Falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcA2aAOMB2ALGXyEw1sESQFJyRsBmcgUwFowwAoAN3DACYVKXe3NGijgQyfmkrSo0BKwDuXXmAngAnCrWRFykEJFhN+4VFYAVDYNMG+o7LKJpkmTSSE1ITkd2j512OoImGAI3DTIQtTQNK4INOpB6mjx2JCYTCyyieqsACYgNGF2aZTckD7gAHKl2PmFxdwIyNRw+hX61bX1ng7lIkVaZV1wdQW97QONzZ1gNaO6tqqUg3Y6SqWT1FJb6w2CM6u2e0c2ZyInkH0dE6uXDqvYO3esAE7k2H2YvKQPxWXlHQAY22ZQ6TxW-1k8BcOTh8MShTAMUg6gSIRo2G4mBouJaMDgbA2O36H2uF10EP2ZOpe1+WwkPg6OkxIAAXvQAHb0V7MOj8aAhWhhDCaDDwbhMTCiFT81hs8Q3cqKnw2dlcnl83SMwrKnUvJT64r0l6qH6fLb07GCEB5egAMwAhgBXAA2ABdGK76AUIDICWx3jrScGZmC4KwAOag6lU-CiPbBjqYYi7bUdJotFwHfGsd0gTDTFopvphsTMNAxQuQAyxb6EdSyIXCTCuIqYCrIZzgNp2p1u91vcTfanZ3UyQGJkerI28RPnAtFsyGjMzYOmHRYBxjzPD3g0ZUQChtAmQJAAJXoAGcAJZX92OzlA+i6EtbN-cNLLgup60-h5XGY7xvhMIFQjwexgbwY4vAA9g04gPK0iLKjAc7gKwQA)
 ![Circuito](https://user-images.githubusercontent.com/24720405/179834899-ba1af617-4492-4a14-963c-7540d1b17340.png)
 Esquemático no EAGLE
-![Esquemático no EAGLE](https://i.imgur.com/f2UnJjM.png)
+![Esquemático no EAGLE](https://i.imgur.com/WNwCi8H.png)
 Board no EAGLE
-![Board no EAGLE](https://i.imgur.com/IOnTe4q.png)
+![Board no EAGLE](https://i.imgur.com/DSsR56V.png)
